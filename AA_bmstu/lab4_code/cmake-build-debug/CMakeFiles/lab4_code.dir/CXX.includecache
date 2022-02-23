@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trapkaren/Desktop/AA_bmstu/lab4_code/main.cpp
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+iostream
+-
+

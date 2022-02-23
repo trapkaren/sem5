@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab5_code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab5_code">
+				<Option output="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/lab5_code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab5_code"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab5_code/fast">
+				<Option output="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/lab5_code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab5_code/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/trapkaren/Desktop/AA_bmstu/lab5_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/ConveyorWork.cpp">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/ConveyorWork.h">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/LinearWork.cpp">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/LinearWork.h">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/MyTimer.cpp">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/MyTimer.h">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/main.cpp">
+			<Option target="lab5_code"/>
+		</Unit>
+		<Unit filename="/Users/trapkaren/Desktop/AA_bmstu/lab5_code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

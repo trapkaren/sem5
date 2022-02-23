@@ -1,0 +1,18 @@
+\babel@toc {russian}{}
+\contentsline {section}{Введение}{3}%
+\contentsline {section}{\numberline {1.\relax }Аналитическая часть}{4}%
+\contentsline {subsection}{\numberline {1.1.\relax }Расстояние Левенштейна}{4}%
+\contentsline {subsection}{\numberline {1.2.\relax }Расстояние Дамерау-Левенштейна}{5}%
+\contentsline {section}{\numberline {2.\relax }Конструкторская часть}{7}%
+\contentsline {subsection}{\numberline {2.1.\relax }Требования к программе}{7}%
+\contentsline {subsection}{\numberline {2.2.\relax }Схемы алгоритмов}{7}%
+\contentsline {section}{\numberline {3.\relax }Технологическая часть}{13}%
+\contentsline {subsection}{\numberline {3.1.\relax }Выбор языка программирования}{13}%
+\contentsline {subsection}{\numberline {3.2.\relax }Реализация алгоритмов}{13}%
+\contentsline {subsection}{\numberline {3.3.\relax }Тестирование функций}{15}%
+\contentsline {section}{\numberline {4.\relax }Экспериментальная часть}{17}%
+\contentsline {subsection}{\numberline {4.1.\relax }Интерфейс}{17}%
+\contentsline {subsection}{\numberline {4.2.\relax }Сравнение алгоритмов по времени работы реализаций}{20}%
+\contentsline {subsection}{\numberline {4.3.\relax }Сравнение алгоритмов по затраченной памяти}{20}%
+\contentsline {section}{Заключение}{23}%
+\contentsline {section}{Список литературы}{24}%

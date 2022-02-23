@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/ConveyorWork.cpp
+ConveyorWork.h
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/ConveyorWork.h
+MyTimer.h
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/MyTimer.h
+
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/ConveyorWork.h
+iostream
+-
+vector
+-
+queue
+-
+cstdlib
+-
+thread
+-
+mutex
+-
+unistd.h
+-
+WorkObject.h
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/WorkObject.h
+
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/MyTimer.h
+chrono
+-
+
+/Users/trapkaren/Desktop/AA_bmstu/lab5_code/WorkObject.h
+string
+-
+vector
+-
+
